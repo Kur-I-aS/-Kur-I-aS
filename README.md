@@ -1,102 +1,114 @@
-#  Hey, I'm Kurias — your friendly neighborhood bug exorcist.  
-### Full-Stack-ish Engineer • Backend Summoner • PHP/JS Survivor
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&color=F75C7E&center=true&vCenter=true&width=800&lines=Hello%2C+I+am+Kurias+%F0%9F%91%8B;I+break+code+so+you+don't+have+to+%F0%9F%94%A5;Full-Stack+Engineer+%28Chaos+Life+Edition)
 
-I build systems, break them, fix them, refactor them, sometimes all in the same day.  
-If code is chaos, then I am the storm. 🌪️
+#  Hey, I'm Kurias  
+###  Software Engineer • Backend Overlord • Professional Bug Negotiator
 
----
+I create applications, refactor chaos, and occasionally summon stack traces that were never meant to be seen by humans.
 
-##  My Core Abilities (Unlocked Over Many Boss Fights)
-
-**Backend Magic:** PHP • JavaScript • Node.js • Python (work in progress 👶⚙️)
-
-**Framework Spells:**  
-CodeIgniter 4 (my home planet) • Laravel • Express.js • Django • CI3 migration wizard
-
-**Database Diplomacy:**  
-PostgreSQL (likes structure) • MySQL (likes drama)
-
-**Frontend Shenanigans:**  
-HTML • CSS • jQuery  
-(React? Maybe later. My sanity is important.)
-
-**Bonus Chaos Powers:**  
-REST APIs • PDF sorcery (mPDF + Dompdf)  
-Linux CLI (where real developers cry)  
-Debugging ~ nightmares ~ adventures  
-UI/UX — when I feel like being artistic instead of logical
+If your system is held together by duct tape, prayers, and legacy code—  
+**perfect. I’m already interested.**
 
 ---
 
-##  Legendary Quests (Projects That Survived)
+##  Tech Stack (a.k.a Tools I Use to Fight Demons)
 
-###  Node.js Mailer App 📧  
-My attempt to send emails without begging Gmail to “please work PLEASE WORK.”  
-Includes tokens, validation, clean structure, and zero hardcoded passwords.  
-(We don’t talk about v1.)
+<!-- Badges are fun chaos -->
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
----
-
-###  Court Case Information System ⚖️  
-A legal system so organized it made lawyers breathe calmly for once.  
-PDF exports included because printers deserve pain too.
-
----
-
-###  CI3 → CI4 Migration Toolkit 🌀
-I fought legacy code and won.  
-Sessions were broken. Controllers were cursed.  
-But now everything is shiny and maintainable.  
-CI3 cried. CI4 cheered.
+###  Framework Shenanigans  
+- CodeIgniter 4 (favorite child)  
+- Laravel (sometimes behaves)  
+- Express.js (got in mid-way) 
+- React.js (Node chaos mode)  
+- Django (the adult in the room)  
 
 ---
 
-###  Thesis Tracking System 📚  
-Built for university faculty who needed *another* dashboard.  
-Used by real humans. No refunds.
+##  Featured Projects (the ones that fought me but I won)
+
+### **📧 Node.js Mailer App**  
+A mini email-sending beast.  
+Built with Express, validation, tokens, and structure so clean it smells like fresh commits.  
+v1 was a disaster.  
+v2 works.
 
 ---
 
-###  TellMe — Android Greeting App 📱 
-A wholesome app that greets you based on time of day and throws motivational quotes at you so you don’t quit coding.
+### **⚖️ Court Case Information System**  
+A legal management system that could survive attorneys, clerks, and the general chaos of government workflows.  
+PDF exports included, because printers need punishment.
 
 ---
 
-##  Currently Grinding XP In:
-- Python (aim: level up to “dangerous”)  
-- System design (because interviews exist 😭)  
-- Cloud things ☁️  
-- Reading huge codebases without losing sanity  
-- AI/automation workflows  
+### **🌀 CI3 → CI4 Migration Toolkit**  
+Legacy Code + Coffee + Several Existential Crises = Migration Success  
+Sessions fixed, models reorganized, controllers purified.  
+CI4 = happy. CI3 = crying in the corner.
 
 ---
 
-##  My Philosophy  
-Write code.  
-Ship code.  
-Break code.  
-Fix code.  
-Repeat until lunch.
+### **📚 Thesis Tracking System**  
+Made for universities. Used by real professors.  
+UI so clean even non-tech faculty used it without calling me.
 
 ---
 
-##  Contact Me (Not With Production Issues Please) 
-🔗 LinkedIn: www.linkedin.com/in/kurias-jose 
-
-If I don’t respond, I’m probably debugging something that *should not* logically be possible.
+### **📱 TellMe – Android Greeting App**  
+A sweet, innocent app that tells you good morning.  
+The opposite of my debugging sessions.
 
 ---
 
-##  Collaboration? Yes.  
-If your project has:  
-✔ Chaos  
-✔ Unclear documentation  
-✔ Legacy code  
-✔ API drama  
-✔ Strange bugs  
-✔ Mysterious errors  
+##  Currently Grinding XP:
+- Python (leveling from “beginner” → “dangerously productive”)
+- Large codebase archaeology  
+- Cloud wizardry  
+- Reading 18-module systems without screaming  
+- AI workflows + automation  
 
-Congratulations.  
-That’s my favorite environment.
+---
 
-Let’s build awkward, beautiful things together. ✨  
+##  GitHub Stats (Because Flexing is Healthy)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=inlook&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inlook&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+##  Philosophy of Code  
+
+try {
+  make it work;
+} catch (chaos) {
+  fix it again;
+} finally {
+  commit anyway;
+}
+
+---
+
+##  Contact Me  
+🔗 LinkedIn: www.linkedin.com/in/kurias-jose
+
+If you message me and I don’t reply, I’m debugging a feature that stopped working for *absolutely no reason*.
+
+---
+
+##  Final Message  
+If your project needs:  
+- debugging  
+- refactoring  
+- architecture help  
+- or someone brave enough to open the "legacy" folder  
+
+**Call me.**
+
+Let’s create something beautiful (and slightly chaotic). 
