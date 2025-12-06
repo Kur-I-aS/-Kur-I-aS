@@ -1,4 +1,4 @@
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&color=F75C7E&center=true&vCenter=true&width=800&lines=Hello%2C+I+am+Kurias+%F0%9F%91%8B;I+break+code+so+you+don't+have+to+%F0%9F%94%A5;Full-Stack+Engineer+%28Chaos+Life+Edition)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&color=F75C7E&center=true&vCenter=true&width=800&lines=Hello%2C+I+am+Kurias+%F0%9F%91%8B;I+break+code+so+you+don't+have+to+%F0%9F%94%A5;Full-Stack+Engineer+%28Chaos+Life+Edition+%29)
 
 #  Hey, I'm Kurias  
 ###  Software Engineer • Backend Overlord • Professional Bug Negotiator
