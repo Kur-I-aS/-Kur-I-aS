@@ -84,15 +84,17 @@ The opposite of my debugging sessions.
 ---
 
 ##  Philosophy of Code  
-
+```
 try {
   make it work;
-} catch (chaos) {
+}
+catch (chaos) {
   fix it again;
-} finally {
+}
+finally {
   commit anyway;
 }
-
+```
 ---
 
 ##  Contact Me  
