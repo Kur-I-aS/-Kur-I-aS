@@ -1,16 +1,17 @@
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&color=F75C7E&center=true&vCenter=true&width=800&lines=Hello%2C+I+am+Kurias+%F0%9F%91%8B;I+break+code+so+you+don't+have+to+%F0%9F%94%A5;Full-Stack+Engineer...;IT+Professional...;Technology+Enthusiast...;Problem+Solver...;Results-Driven...;Continuous+Learner...;+and+ABCDEFGHIJKLMNOPQRSTUVWXYZ+Man.)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&color=5a5a5a&center=true&vCenter=true&width=800&lines=Hello%2C+I+am+Kurias+%F0%9F%91%8B;I+break+code+so+you+don't+have+to...;Full-Stack+Engineer...;IT+Professional...;Technology+Enthusiast...;Problem+Solver...;Results-Driven...;Continuous+Learner...;+and+ABCDEFGHIJKLMNOPQRSTUVWXYZ+skilled.)
 
 #  Hey, I'm Kurias  
-###  Software Engineer • Backend Overlord • Professional Bug Negotiator
+###  Software Engineer • Full-Stack (Backend-led)
 
-I create applications, refactor chaos, and occasionally summon stack traces that were never meant to be seen by humans.
+I build, modernize, and maintain production systems with a focus on
+clean architecture, reliability, and long-term maintainability.
 
-If your system is held together by duct tape, prayers, and legacy code—  
-**perfect. I’m already interested.**
+My work spans legacy modernization, API-first backend development,
+and React-based SPA integrations in real-world, compliance-heavy environments.
 
 ---
 
-##  Tech Stack (a.k.a Tools I Use to Fight Demons)
+##  Tech Stack
 
 <!-- Badges are fun chaos -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -22,18 +23,17 @@ If your system is held together by duct tape, prayers, and legacy code—
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-###  Framework Shenanigans  
-- CodeIgniter 4 (favorite child)  
-- Laravel (sometimes behaves)  
-- Express.js (got in mid-way) 
-- React.js (Node chaos mode)  
-- Django (the adult in the room)  
+###  Frameworks  
+- CodeIgniter 4 
+- Laravel 
+- Express.js 
+- React.js
+- Django
 
 ---
 
-##  Featured Projects (the ones that fought me but I won)
-
-### **📧 Node.js Mailer App**  
+##  Featured Projects
+### **Node.js Mailer App**  
 A mini email-sending beast.  
 Built with Express, validation, tokens, and structure so clean it smells like fresh commits.  
 v1 was a disaster.  
@@ -41,26 +41,26 @@ v2 works.
 
 ---
 
-### **⚖️ Court Case Information System**  
+### **Court Case Information System**  
 A legal management system that could survive attorneys, clerks, and the general chaos of government workflows.  
 PDF exports included, because printers need punishment.
 
 ---
 
-### **🌀 CI3 → CI4 Migration Toolkit**  
+### **CI3 → CI4 Migration Toolkit**  
 Legacy Code + Coffee + Several Existential Crises = Migration Success  
 Sessions fixed, models reorganized, controllers purified.  
 CI4 = happy. CI3 = crying in the corner.
 
 ---
 
-### **📚 Thesis Tracking System**  
+### **Thesis Tracking System**  
 Made for universities. Used by real professors.  
 UI so clean even non-tech faculty used it without calling me.
 
 ---
 
-### **📱 TellMe – Android Greeting App**  
+### **TellMe – Android Greeting App**  
 A sweet, innocent app that tells you good morning.  
 The opposite of my debugging sessions.
 
